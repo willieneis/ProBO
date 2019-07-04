@@ -1,4 +1,4 @@
-# ProBO: a Framework for Using Probabilistic Programming in Bayesian Optimization
+# ProBO: Versatile Bayesian Optimization Using Any Probabilistic Programming Language
 
 Coming soon. Read the paper [here](https://arxiv.org/abs/1901.11515).
 
